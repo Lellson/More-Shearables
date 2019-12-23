@@ -1,0 +1,14 @@
+{
+  "result": {
+      "item": "minecraft:leather"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "shear:pigSkin"
+    },
+	{
+        "item": "shear:pigSkin"
+    }
+  ]
+}

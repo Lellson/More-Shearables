@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "shear:clipper"
+  },
+  "pattern": [
+    "  g",
+    " s ",
+	"g  "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+	"s": {
+      "item": "minecraft:shears"
+    }
+  }
+}

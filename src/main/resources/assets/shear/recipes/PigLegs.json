@@ -1,0 +1,16 @@
+{
+  "result": {
+    "item": "shear:pigLegs"
+  },
+  "pattern": [
+	"ppp",
+    "p p",
+    "p p"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "p": {
+      "item": "shear:pigSkin"
+    }
+  }
+}

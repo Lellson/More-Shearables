@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "shear:polarBearBoots"
+  },
+  "pattern": [
+    "p p",
+    "p p"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "p": {
+      "item": "shear:polarBearHide"
+    }
+  }
+}
